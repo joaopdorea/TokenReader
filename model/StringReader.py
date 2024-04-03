@@ -23,5 +23,5 @@ class StringReader:
         return tokens
 
 
-print(SpecialTokenManipulator.show_answers((StringReader.clean_text(open("teste.txt", "r", encoding="utf8")))))
+
 
